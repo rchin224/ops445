@@ -6,4 +6,5 @@ y = 2
 z = 5
 result = x + y *z
 
+# Ensure the output matches the exact requirement
 print(f"{x} + {y} * {z} = {result}")
